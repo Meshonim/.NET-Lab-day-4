@@ -1,15 +1,19 @@
 1. Generics and Collections
-    1. Memory Representation of String
-    2. String Features
-    3. Overriding of Equals
-    4. Interning (String.Intern, String.IsInterned)
-    5. System.Text.StringBuilder
-2. Formatting and Parsing
-    1. ToString(), String.Format, Console.WriteLine ("c", "d", "f", "p", "x");
-    2. Interpolation
-    3. Parse, TryParse
-    4. String.Split
-    5. System.Text.RegularExpressions
+    1. General information
+    2. IEnumerable
+    3. System.Collections
+        1. ArrayList
+        2. Queue, Stack, SortedList
+    4. Generics
+    2. IEnumerable(T)
+    5. System.Collections.Generic
+2. Introduction to Language Integrated Query (LINQ)
+    1. General information
+    2. LINQ and Generic Types
+    3. Basic Query Operations
+    4. Data Transformations
+    5. Type Relationships
+    6. Query Syntax and Method Syntax
 3. Internal device types in .NET Framework. Resource management.
    1. Microsoft.SmartDevice.Connectivity.Device
    2. Microsoft.DirectX.Direct3D.Device
